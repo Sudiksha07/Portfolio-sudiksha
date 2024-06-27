@@ -14,7 +14,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Sudiksha07/Portfolio",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+" ",
   linkedin: "https://www.linkedin.com/in/sudiksha-gandhi-4a9387237/",
   Github: "https://github.com/Sudiksha07/Portfolio",
   insta: "https://www.instagram.com/",
@@ -181,8 +181,8 @@ export const projects = [
       Portfolio,
     tags: ["React Js","JavaScript","MaterialUi","CSS"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/Sudiksha07/Portfolio-sudiksha",
+    webapp: "",
 
   },
   {
